@@ -1,0 +1,13 @@
+{
+  "name": "base-eslint-prettier-package",
+  "version": "0.1.0",
+  "private": false,
+  "author": "MikeNats",
+  "dependencies": {},
+  "scripts": {},
+  "devDependencies": {
+    "eslint-config-airbnb": "^19.0.1",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.5.0"
+  }
+}
